@@ -1,0 +1,72 @@
+/* nav */
+.navbar-brand {
+    font-size: 40px;
+    font-weight: 600;
+    padding-right: 200px;
+}
+
+.navbar-nav li {
+    padding-left: 40px;
+}
+
+.nv {
+
+    width: 100%;
+}
+
+/* carousel */
+.header-container {
+    width: 100%;
+
+
+
+}
+
+.bg {
+    margin: 50px;
+
+}
+
+.carousel-caption {
+    padding-bottom: 300px;
+}
+
+h1 {
+    font-size: 90px;
+
+}
+
+p {
+    font-size: 20px;
+}
+
+.btn {
+    font-weight: 700;
+}
+
+.btn:hover {
+    background-color: rgb(20, 141, 233);
+}
+
+.background {
+
+    background-color: black;
+    border-radius: 10px;
+
+}
+
+img {
+    opacity: 0.5;
+}
+
+h2 {
+    font-size: 50px;
+    font-weight: 700;
+    color: cadetblue;
+}
+
+
+.main {
+    padding: 50px;
+    margin-left: 600px;
+}
